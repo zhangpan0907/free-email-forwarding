@@ -44,7 +44,7 @@
     "p-map": "4",
     "parse-domain": "5",
     "pify": "5",
-    "pino": "8.0.0",
+    "pino": "8.15.1",
     "pretty-ms": "7",
     "punycode": "2.1.1",
     "re2": "1.17.7",
